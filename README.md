@@ -70,20 +70,70 @@ Interactive Scatter (Income vs Utilization)
 
 💡 Insights Summary
 
-Payment discipline and credit utilization are the strongest predictors of credit score.
+🧠 OVERALL KEY PATTERNS
+Top Positive Factors (Increase Credit Score):
 
-Higher income generally supports better scores but isn’t the sole determinant.
+Higher annual income
 
-Individuals aged 30–50 maintain more consistent credit health.
+Fewer delayed payments
 
-Multiple credit cards with responsible usage correlate with stronger scores.
+Older credit history
 
-Occupation and financial stability play significant roles in creditworthiness.
+Lower number of credit cards
 
-🏁 Conclusion
+Lower outstanding debt
 
-Credit behavior matters more than income.
-Timely payments, controlled credit usage, and responsible management of financial products lead to stronger credit scores.
-These insights can help Paisabazaar refine its credit evaluation framework, improve risk prediction, and design personalized financial solutions.
+Top Negative Factors (Decrease Credit Score):
+
+More delayed payments (strongest factor)
+
+More credit cards and loans
+
+High outstanding debt
+
+Short or young credit history
+
+Lower income
+
+Weak/No Relationship with Credit Score:
+
+Age
+
+Credit utilization ratio
+
+Month/season
+
+Occupation
+
+🎯 FINAL CONCLUSION
+
+Credit score variation in this dataset is primarily behavioral, not demographic or occupational.
+
+The strongest drivers of credit score are:
+
+Repayment discipline (delayed payments)
+
+Credit exposure (number of credit cards, loans)
+
+Outstanding debt load
+
+Credit history maturity
+
+Income plays a supportive but secondary role.
+
+Features like occupation, age, monthly trends, and credit utilization have minimal impact.
+
+➡️ In short:
+People’s credit score depends far more on how they manage credit, not on how much they earn or what job they have.
+
+This insight is highly valuable for:
+
+Credit risk modeling
+
+Fraud detection
+
+Loan approval automation
+
+Customer profilin
 
 Author : MAHIMA PATEL
